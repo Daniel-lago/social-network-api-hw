@@ -83,7 +83,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [Daniel-lago](https://github.com/Daniel-lago)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:daniel-alh@hotmail.com) , [GitHub](https://github.com/Daniel-lago)<br />
