@@ -1,28 +1,16 @@
 <h1 align="center"> Social Networking API 👋</h1>
-  
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/social-network-api" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/social-network-api"  />
-    <img src="https://img.shields.io/github/issues/jpd61/social-network-api" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/social-network-api" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
-</p>
-  
+    
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/MongoDB-blue"  />
     <img src="https://img.shields.io/badge/mongoose-red"  />
-    <img src="https://img.shields.io/badge/moment-blue"  />
-    <img src="https://img.shields.io/badge/nodemon-green" />
+
 </p>
    
 ## Description
 
-🔍 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
   
 💻 Below is a video of the application:
   
@@ -57,9 +45,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
+- [Walkthrough](#Walkthrough)
 - [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Installation
 💾   
@@ -67,7 +54,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 `npm init`
 
 `npm install`
-  
+
+  ---
 ## Usage
 💻   
   
@@ -77,13 +65,14 @@ With Nodemon:
 
 `npm run watch`
 
-## Testing
-✏️
+--- 
 
-No current testing
+## Walkthrough
+
+
+### https://drive.google.com/file/d/1sem8YBLp4iwWLSJvZVgPNl9CDkLXN9KV/view?usp=sharing
+
+---
 
 ## Contributing
-:octocat: [Daniel-lago](https://github.com/Daniel-lago)
-
-## Questions
-✉️ Contact me with any questions: [email](mailto:daniel-alh@hotmail.com) , [GitHub](https://github.com/Daniel-lago)<br />
+ [Daniel-lago](https://github.com/Daniel-lago)
